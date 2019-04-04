@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MySchoolMyFuture/DPS/precache-manifest.b865c71f32e31a55dc5e975ae146789c.js"
+  "/DPS/precache-manifest.f99a68b4257d07309366756c146c627f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MySchoolMyFuture/DPS/index.html", {
+workbox.routing.registerNavigationRoute("/DPS/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

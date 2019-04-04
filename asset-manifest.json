@@ -1,14 +1,14 @@
 {
-  "main.css": "/MySchoolMyFuture/DPS/static/css/main.9ad14e2e.chunk.css",
-  "main.js": "/MySchoolMyFuture/DPS/static/js/main.896619b0.chunk.js",
-  "main.js.map": "/MySchoolMyFuture/DPS/static/js/main.896619b0.chunk.js.map",
-  "runtime~main.js": "/MySchoolMyFuture/DPS/static/js/runtime~main.7bf1988b.js",
-  "runtime~main.js.map": "/MySchoolMyFuture/DPS/static/js/runtime~main.7bf1988b.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/MySchoolMyFuture/DPS/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/MySchoolMyFuture/DPS/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/MySchoolMyFuture/DPS/index.html",
-  "precache-manifest.b865c71f32e31a55dc5e975ae146789c.js": "/MySchoolMyFuture/DPS/precache-manifest.b865c71f32e31a55dc5e975ae146789c.js",
-  "service-worker.js": "/MySchoolMyFuture/DPS/service-worker.js",
-  "static/css/main.9ad14e2e.chunk.css.map": "/MySchoolMyFuture/DPS/static/css/main.9ad14e2e.chunk.css.map",
-  "static/media/logo.svg": "/MySchoolMyFuture/DPS/static/media/logo.5d5d9eef.svg"
+  "main.css": "/DPS/static/css/main.9ad14e2e.chunk.css",
+  "main.js": "/DPS/static/js/main.964d12e8.chunk.js",
+  "main.js.map": "/DPS/static/js/main.964d12e8.chunk.js.map",
+  "runtime~main.js": "/DPS/static/js/runtime~main.e5c6bbab.js",
+  "runtime~main.js.map": "/DPS/static/js/runtime~main.e5c6bbab.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/DPS/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/DPS/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/DPS/index.html",
+  "precache-manifest.f99a68b4257d07309366756c146c627f.js": "/DPS/precache-manifest.f99a68b4257d07309366756c146c627f.js",
+  "service-worker.js": "/DPS/service-worker.js",
+  "static/css/main.9ad14e2e.chunk.css.map": "/DPS/static/css/main.9ad14e2e.chunk.css.map",
+  "static/media/logo.svg": "/DPS/static/media/logo.5d5d9eef.svg"
 }
